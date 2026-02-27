@@ -4,13 +4,16 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-Notes from tutorial:
+My notes:
 
-/app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
+Running through the NextJS tutorial to get a better understanding of App Routers
 
-/app/lib: Contains functions used in your application, such as reusable utility functions and data fetching functions.
+Folder Structure info:
+    /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
 
-/app/ui: Contains all the UI components for your application, such as cards, tables, and forms. To save time, we've pre-styled these components for you.
+    /app/lib: Contains functions used in your application, such as reusable utility functions and data fetching functions.
 
-/public: Contains all the static assets for your application, such as images.
+    /app/ui: Contains all the UI components for your application, such as cards, tables, and forms. To save time, we've pre-styled these components for you.
+
+    /public: Contains all the static assets for your application, such as images.
 
