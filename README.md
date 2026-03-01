@@ -17,3 +17,4 @@ Folder Structure info:
 
     /public: Contains all the static assets for your application, such as images.
 
+Set up an account in Vercel and created a very basic postgres db using the seeding ability as part of the tutorial
