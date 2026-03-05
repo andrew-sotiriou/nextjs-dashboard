@@ -6,6 +6,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 My notes:
 
+username/pasword to login: user@nextmail.com/123456
+
 Running through the NextJS tutorial to get a better understanding of App Routers
 
 Folder Structure info:
